@@ -1,0 +1,1096 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SeguridadCiudadana
+</name>
+</assembly>
+<members>
+<member name="T:SeguridadCiudadana.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SeguridadCiudadana.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SeguridadCiudadana.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.AREA_SEGURIDADDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.ATENCION_VICTIMASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.CAMARADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.COMISARIADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.CONTROL__PERSECUCCIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.DELINCUENCIALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.DELITODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.DETALLE_CAMARADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.DETALLE_POLICIADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.DETALLE_SERENAZGODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.EMPLEADO_SEGURIDADDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.EMPRESADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.ESTADO_EVALLUACIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.ESTADO_SERVICIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.ESTADO_VICTIMADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.EVALUACIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.MANTENIMIENTODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.MUNICIPALIDADDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.PERSONADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.PERSONA_JURIDICADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.PERSONA_NATURALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.POLICIADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.PREVENCION_DELITODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.PROGRAMACIÓNDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.RANGO_POLICIADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.RAZON_SOCIALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.RUBRODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.SERENAZGODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.SERVICIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_CAMARADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_COMUNICACIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_DELINCUENCIALDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_SEGURIDADDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_SERVICIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_VEHICULODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.VEHICULOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.VICTIMADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.VIDEO_OPERADORDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.VIDEOVIGILANCIADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_EMPLEADOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_MANTENIMIENTODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_PERSECUCIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_PERSONA_JDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_PERSONA_NDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_PREVENCIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_SERENAZGO_SEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_SERVICIODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_SUJETOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_VICTIMAS_MUJERESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_VIDEOVIGILANCIADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_VICTIMASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.AREA_SEGURIDADRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.ATENCION_VICTIMASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.CAMARARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.COMISARIARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.CONTROL__PERSECUCCIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.DELINCUENCIALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.DELITORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.DETALLE_CAMARARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.DETALLE_POLICIARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.DETALLE_SERENAZGORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.EMPLEADO_SEGURIDADRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.EMPRESARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.ESTADO_EVALLUACIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.ESTADO_SERVICIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.ESTADO_VICTIMARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.EVALUACIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.MANTENIMIENTORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.MUNICIPALIDADRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.PERSONARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.PERSONA_JURIDICARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.PERSONA_NATURALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.POLICIARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.PREVENCION_DELITORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.PROGRAMACIÓNRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.RANGO_POLICIARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.RAZON_SOCIALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.RUBRORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.SERENAZGORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.SERVICIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_CAMARARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_COMUNICACIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_DELINCUENCIALRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_SEGURIDADRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_SERVICIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_VEHICULORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.VEHICULOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.VICTIMARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.VIDEO_OPERADORRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.VIDEOVIGILANCIARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_EMPLEADOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_MANTENIMIENTORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_PERSECUCIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_PERSONA_JRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_PERSONA_NRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_PREVENCIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_SERENAZGO_SERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_SERVICIORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_SUJETOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_VICTIMAS_MUJERESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_VIDEOVIGILANCIARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_VICTIMASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.AREA_SEGURIDADRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.ATENCION_VICTIMASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.CAMARARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.COMISARIARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.CONTROL__PERSECUCCIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.DELINCUENCIALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.DELITORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.DETALLE_CAMARARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.DETALLE_POLICIARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.DETALLE_SERENAZGORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.EMPLEADO_SEGURIDADRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.EMPRESARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.ESTADO_EVALLUACIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.ESTADO_SERVICIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.ESTADO_VICTIMARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.EVALUACIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.MANTENIMIENTORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.MUNICIPALIDADRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.PERSONARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.PERSONA_JURIDICARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.PERSONA_NATURALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.POLICIARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.PREVENCION_DELITORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.PROGRAMACIÓNRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.RANGO_POLICIARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.RAZON_SOCIALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.RUBRORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.SERENAZGORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.SERVICIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_CAMARARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_COMUNICACIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_DELINCUENCIALRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_SEGURIDADRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_SERVICIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.TIPO_VEHICULORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.VEHICULOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.VICTIMARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.VIDEO_OPERADORRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.VIDEOVIGILANCIARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_EMPLEADOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_MANTENIMIENTORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_PERSECUCIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_PERSONA_JRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_PERSONA_NRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_PREVENCIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_SERENAZGO_SERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_SERVICIORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_SUJETOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_VICTIMAS_MUJERESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_VIDEOVIGILANCIARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet.V_VICTIMASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.AREA_SEGURIDADTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.ATENCION_VICTIMASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.CAMARATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.COMISARIATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.CONTROL__PERSECUCCIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.DELINCUENCIALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.DELITOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.DETALLE_CAMARATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.DETALLE_POLICIATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.DETALLE_SERENAZGOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.EMPLEADO_SEGURIDADTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.EMPRESATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.ESTADO_EVALLUACIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.ESTADO_SERVICIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.ESTADO_VICTIMATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.EVALUACIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.MANTENIMIENTOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.MUNICIPALIDADTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.PERSONATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.PERSONA_JURIDICATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.PERSONA_NATURALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.POLICIATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.PREVENCION_DELITOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.PROGRAMACIÓNTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.RANGO_POLICIATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.RAZON_SOCIALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.RUBROTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.SERENAZGOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.SERVICIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.TIPO_CAMARATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.TIPO_COMUNICACIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.TIPO_DELINCUENCIALTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.TIPO_SEGURIDADTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.TIPO_SERVICIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.TIPO_VEHICULOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.VEHICULOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.VICTIMATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.VIDEO_OPERADORTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.VIDEOVIGILANCIATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.V_EMPLEADOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.V_MANTENIMIENTOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.V_PERSECUCIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.V_PERSONA_JTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.V_PERSONA_NTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.V_PREVENCIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.V_SERENAZGO_SETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.V_SERVICIOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.V_SUJETOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.V_VICTIMAS_MUJERESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.V_VIDEOVIGILANCIATableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.V_VICTIMASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.TableAdapterManager.UpdateAll(SeguridadCiudadana.SEGURIDAD_CIUDADANADataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SeguridadCiudadana.SEGURIDAD_CIUDADANADataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

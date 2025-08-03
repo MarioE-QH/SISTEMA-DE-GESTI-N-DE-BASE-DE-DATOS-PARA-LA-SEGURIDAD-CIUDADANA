@@ -1,0 +1,45 @@
+c:\users\javii\onedrive\documentos\visual studio 2015\Projects\SeguridadCiudadana\SeguridadCiudadana\bin\Debug\SeguridadCiudadana.exe.config
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\bin\Debug\SeguridadCiudadana.exe.config
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\bin\Debug\SeguridadCiudadana.exe
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\bin\Debug\SeguridadCiudadana.pdb
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\bin\Debug\SeguridadCiudadana.xml
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.vbprojResolveAssemblyReference.cache
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.Form1.resources
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmEmpleado.resources
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.Resources.resources
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.vbproj.GenerateResource.Cache
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.exe
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.xml
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.pdb
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmSerenazgo.resources
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmPatrulla.resources
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmAtencionVictima.resources
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmTipoComunicacion.resources
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmPrevencionDelito.resources
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmDenunciante.resources
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmVideovigilancia.resources
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmVistaEmpleado.resources
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmVistaSerenazgo.resources
+C:\Users\HiroZar\Documents\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmVistaVictima.resources
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\bin\Debug\SeguridadCiudadana.exe.config
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.exe
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.xml
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.pdb
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\bin\Debug\SeguridadCiudadana.exe
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\bin\Debug\SeguridadCiudadana.pdb
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\bin\Debug\SeguridadCiudadana.xml
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.vbprojResolveAssemblyReference.cache
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.Form1.resources
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmAtencionVictima.resources
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmDenunciante.resources
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmEmpleado.resources
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmPatrulla.resources
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmPrevencionDelito.resources
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmSerenazgo.resources
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmTipoComunicacion.resources
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmVideovigilancia.resources
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmVistaEmpleado.resources
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmVistaSerenazgo.resources
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.frmVistaVictima.resources
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.Resources.resources
+C:\Users\Jaime-C\Desktop\SeguridadCiudadana (1)\SeguridadCiudadana\SeguridadCiudadana\obj\Debug\SeguridadCiudadana.vbproj.GenerateResource.Cache
